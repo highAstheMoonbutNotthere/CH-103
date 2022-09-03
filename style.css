@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(8, 133, 118);
+    color: rgb(255, 208, 0);
+}
+.heading{
+    width: 80%;
+    font-size: x-large;
+}
+.objects{
+    font-size: x-large;
+    color: darkslateblue;
+}
+#camera{
+    border: 5px dashed powderblue;
+    width: 350px;
+    height: 300px;
+}
